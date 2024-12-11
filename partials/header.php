@@ -250,6 +250,9 @@
                                     <li>
                                         <a href="about.php">About Us</a>
                                     </li>
+                                    <li>
+                                        <a href="project.php">Projects</a>
+                                    </li>
                                     <li class="menu-item-has-children">
                                         <a title="" href="service.php">Services</a> <!-- write in title Mega Menu -->
                                         <ul class="mega-menu">
