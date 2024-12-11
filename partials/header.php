@@ -212,8 +212,8 @@
                     <div class="col-auto d-none d-lg-block">
                         <div class="header-links">
                             <ul>
-                                <li>Oikos Veritas, Westlands, Nairobi, Kenya</li>
-                                <li>Call:<a href="tel:+254708301830">0708301830</a></li>
+                                <li>West Park Towers, Suite 508, Mpesi Lane, Off-Muthithi Road, Westlands, Nairobi</li>
+                                <li>Call:<a href="tel:+254708301830">+254 799 000 399</a></li>
                             </ul>
                         </div>
                     </div>
