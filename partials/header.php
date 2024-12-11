@@ -238,7 +238,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto">
                             <div class="header-logo">
-                                <a href="index.php"><img src="assets/img/oikos/logo.svg" alt="logo"></a>
+                                <a href="index.php"><img src="assets/img/oikos/logo.svg" alt="logo" style="height: 50px;"></a>
                             </div>
                         </div>
                         <div class="col-auto">
