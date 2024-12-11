@@ -13,7 +13,7 @@
                             </div>
                             <div class="info-card_content">
                                 <h4 class="info-card_title">Visit Us</h4>
-                                <p class="info-card_text">Agip House, Wing B, 6th Floor,<br>Flat 8, Rm 8, Haile Selassie Ave., Nairobi</p>
+                                <p class="info-card_text">West Park Towers, Suite 508, Mpesi Lane, Off-Muthithi Road, Westlands, Nairobi</p>
                             </div>
                         </div>
                     </div>

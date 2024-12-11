@@ -11,9 +11,9 @@
                         <div class="col-lg-8">
                             <div class="hero-style1">
                                 <span class="hero-subtitle" data-ani="slideinup" data-ani-delay="0.3s">NATURAL ENVIRONMENT</span>
-                                <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.4s"> Leading the way to</h1>
-                                <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.5s">a greener future </h1>
-                                <p class="hero-text" data-ani="slideinup" data-ani-delay="0.6s"> Ecology is the scientific study of the relationships between organisms and their environment, including their physical, chemical. </p>
+                                <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.4s"> OIKOS VERITAS SERVICE LTD.</h1>
+                                <!-- <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.5s">a greener future </h1> -->
+                                <p class="hero-text" data-ani="slideinup" data-ani-delay="0.6s"> ECOLOGY⎮ECONOMICS⎮ENVIRONMENT CONSULTANTS</p>
                                 <div class="btn-wrap" data-ani="slideinup" data-ani-delay="0.7s">
                                     <a href="contact.php" class="btn style2">Schedule a Meeting<i class="fas fa-angle-double-right"></i></a>
                                     <!-- <a href="contact.php" class="btn style3">Get Started<i class="fas fa-angle-double-right"></i></a> -->
@@ -30,9 +30,9 @@
                         <div class="col-lg-8 col-md-12">
                             <div class="hero-style1">
                                 <span class="hero-subtitle" data-ani="slideinup" data-ani-delay="0.3s">NATURAL ENVIRONMENT</span>
-                                <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.4s">  Saving the planet</h1>
-                                <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.5s">one step at a time</h1>
-                                <p class="hero-text" data-ani="slideinup" data-ani-delay="0.6s"> Ecology is the scientific study of the relationships between organisms and their environment, including their physical, chemical. </p>
+                                <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.4s"> OIKOS VERITAS SERVICE LTD.</h1>
+                                <!-- <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.5s">a greener future </h1> -->
+                                <p class="hero-text" data-ani="slideinup" data-ani-delay="0.6s"> ECOLOGY⎮ECONOMICS⎮ENVIRONMENT CONSULTANTS</p>
                                 <div class="btn-wrap" data-ani="slideinup" data-ani-delay="0.7s">
                                     <a href="contact.php" class="btn style2">Schedule a Meeting<i class="fas fa-angle-double-right"></i></a>
                                     <!-- <a href="contact.php" class="btn style3">Get Started<i class="fas fa-angle-double-right"></i></a> -->
