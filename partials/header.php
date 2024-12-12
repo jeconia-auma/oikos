@@ -63,7 +63,7 @@
             <div class="widget footer-widget">
                 <div class="widget-about">
                     <div class="footer-logo">
-                        <a href="index.html"><img src="assets/img/logo.svg" alt="Ecofine"></a>
+                        <a href="index.php"><img src="assets/img/logo.svg" alt="oikos"></a>
                     </div>
                     <p class="about-text">Oikos Veritas</p>
                     <!-- <div class="social-btn style2">
