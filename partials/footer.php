@@ -44,7 +44,7 @@
                     </div>
                 </div>
             </div>
-            <div class="widget-area">
+            <!-- <div class="widget-area">
                 <div class="row justify-content-between">
                     <div class="col-md-6 col-xl-3 col-lg-4">
                         <div class="widget footer-widget">
@@ -62,7 +62,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-md-6 col-xl-auto col-lg-4">
+                    <div class="col-md-6 col-xl-auto col-lg-4">
                         <div class="widget widget_nav_menu footer-widget">
                             <h3 class="widget_title">Quick Link</h3>
                             <div class="menu-all-pages-container">
@@ -75,7 +75,7 @@
                                 </ul>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                     <div class="col-md-6 col-xl-3 col-lg-4">
                         <div class="widget footer-widget">
                             <h3 class="widget_title">Recent Projects</h3>
@@ -105,7 +105,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-md-6 col-lg-4 col-xl-3">
+                    <div class="col-md-6 col-lg-4 col-xl-3">
                         <div class="widget footer-widget">
                             <h3 class="widget_title">Newsletter</h3>
                             <p class="footer-text">Your opinion is important to us. So contact us for any service.</p>
@@ -116,15 +116,15 @@
                                 <button type="submit" class="btn"><i class="fas fa-paper-plane"></i></button>
                             </form>
                         </div>
-                    </div>                     -->
+                    </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <div class="copyright-wrap">
             <div class="container">
                 <div class="row gy-3 justify-content-lg-between justify-content-center">
                     <div class="col-auto align-self-center">
-                        <p class="copyright-text">© Copyright 2024 <a href="index.php#">Oikos Veritas | Okoth Jeconia Auma.</a> All Rights Reserved</p>
+                        <p class="copyright-text">© Copyright 2024 <a href="index.php#">Oikos Veritas |</a> All Rights Reserved</p>
                     </div>
                     <div class="col-auto align-self-center">
                         <div class="footer-links">
