@@ -7,16 +7,16 @@
 <!--==============================
     Breadcumb
     ============================== -->
-<div class="breadcumb-wrapper" data-bg-src="assets/img/bg/breadcrumb-bg-1-1.jpg">
+<div class="breadcumb-wrapper" data-bg-src="assets/img/oikos/jack.jpg">
     <!-- bg animated image/ -->
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="breadcumb-content">
-                    <h1 class="breadcumb-title">Project Four</h1>
+                    <h1 class="breadcumb-title">Project</h1>
                     <ul class="breadcumb-menu">
-                        <li><a href="index.html">Ecofine</a></li>
-                        <li class="active">Project Four</li>
+                        <li><a href="index.php">Oikos Veritas</a></li>
+                        <li class="active">Project</li>
                     </ul>
                 </div>
             </div>
@@ -1996,7 +1996,7 @@
 </table>
 
 <h3>Projects Management</h3>
-<table width="100%">
+<table>
     <tbody>
         <tr>
             <td width="7%">
@@ -2124,6 +2124,158 @@
     </tbody>
 </table>
 
+<h3>Business and Enterprise Development</h3>
+<table>
+    <tbody>
+        <tr>
+            <td width="12%">
+                <p><strong>Date</strong>
+                </p>
+            </td>
+            <td width="15%">
+                <p><strong>Sector</strong>
+                </p>
+            </td>
+            <td width="55%">
+                <p><strong>Title</strong>
+                </p>
+            </td>
+            <td width="15%">
+                <p><strong>Client</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="12%">
+                <p>2013-2015
+                </p>
+            </td>
+            <td width="15%">
+                <p>Livestock
+                </p>
+            </td>
+            <td width="55%">
+                <p>Development
+                    of
+                    business
+                    agenda
+                    and
+                    advocacy
+                    frameworks
+                    for
+                    engagement
+                    between
+                    business
+                    membership
+                    organizations
+                    and
+                    county
+                    governments
+                    in
+                    twelve
+                    (12)
+                    ASAL
+                    counties
+                    in Kenya
+                </p>
+            </td>
+            <td width="15%">
+                <p>Kenya
+                    Livestock
+                    Marketing
+                    Council
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="12%">
+                <p>2014</p>
+            </td>
+            <td width="15%">
+                <p>Livestock
+                </p>
+            </td>
+            <td width="55%">
+                <p>Development
+                    of
+                    livestock
+                    truck
+                    fleet
+                    management
+                    plan for
+                    Turkana
+                    County
+                    Livestock
+                    Marketing
+                    Council
+                </p>
+            </td>
+            <td width="15%">
+                <p>Turkana
+                    District
+                    Livestock
+                    Marketing
+                    Council
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Documents Reviews and Editorials</h3>
+<table>
+    <tbody>
+        <tr>
+            <td width="21%">
+                <p><strong>Date</strong>
+                </p>
+            </td>
+            <td width="47%">
+                <p><strong>Title</strong>
+                </p>
+            </td>
+            <td width="31%">
+                <p><strong>Client</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="21%">
+                <p>2016</p>
+            </td>
+            <td width="47%">
+                <p>Mapping
+                    and
+                    inventory
+                    of blue
+                    sapphire,
+                    ruby,
+                    yellow
+                    sapphire,
+                    green
+                    and red
+                    garnets,
+                    emrod,
+                    chipstone
+                    and
+                    hematite
+                    exploration
+                    sites in
+                    Isiolo
+                    County
+                </p>
+            </td>
+            <td width="31%">
+                <p>Bisanadi
+                    Mining
+                    Company
+                    Limited
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 </div>
 
 
@@ -2237,4 +2389,4 @@
     </div>
 </div> -->
 
-<?php include_once("partials/header.php"); ?>
+<?php include_once("partials/footer.php"); ?>
