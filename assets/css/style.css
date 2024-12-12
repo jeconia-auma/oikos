@@ -20549,3 +20549,46 @@ span.select2-selection.select2-selection--single:focus {
     text-align: right;
   }
 }
+
+.table-container {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+}
+
+thead {
+  background-color: #f4f4f4;
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+@media (max-width: 600px) {
+
+  th,
+  td {
+    font-size: 14px;
+    padding: 8px;
+  }
+}
