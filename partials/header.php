@@ -250,8 +250,21 @@
                                     <li>
                                         <a href="about.php">About Us</a>
                                     </li>
-                                    <li>
-                                        <a href="project.php">Projects</a>
+                                    <li class="menu-item-has-children">
+                                        <a title="" href="service.php">Projects</a> <!-- write in title Mega Menu -->
+                                        <ul class="mega-menu">
+                                            <li><a href="service.php">Env. Assmt. & Audits</a>
+                                                <ul>
+                                                    <li><a href="project.php#resource_economics">Resource Economics</a></li>
+                                                    <li><a href="project.php#water">Water and Sanitation</a></li>
+                                                    <li><a href="project.php#eco-tourism">Eco-tourism and Leisure</a></li>
+                                                    <li><a href="project.php#resource_ecology">Resource Ecology</a></li>
+                                                    <li><a href="project.php#projects_management">Projects Management</a></li>
+                                                    <li><a href="project.php#business">Business and Enterprise Development</a></li>
+                                                    <li><a href="project.php#documents">Documents Reviews and Editorials</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a title="" href="service.php">Services</a> <!-- write in title Mega Menu -->
@@ -270,26 +283,30 @@
                                             </li>
                                             <li><a href="service.php">Resource Economics</a>
                                                 <ul>
-                                                    <li><a href="#">Service </a></li>
-                                                    <li><a href="#">Service Two </a></li>
-                                                    <li><a href="#">Service Three </a></li>
-                                                    <li><a href="#">Service Four </a></li>
-                                                    <li><a href="#">Service Five </a></li>
-                                                    <li><a href="#">Service Six </a></li>
-                                                    <li><a href="#">Service Seven </a></li>
-                                                    <li><a href="#">Service Details </a></li>
+                                                    <li><a href="#">Agriculture and rural development</a></li>
+                                                    <li><a href="#">Economic impacts analyses</a></li>
+                                                    <li><a href="#">Eco-tourism development and products pricing</a></li>
+                                                    <li><a href="#">Energy, water and sanitation studies and planning</a></li>
+                                                    <li><a href="#">Financial and products market research</a></li>
+                                                    <li><a href="#">Poverty and natural resource degradation assessments</a></li>
+                                                    <li><a href="#">Pre-feasibility, feasibility studies and investment risk analyses</a></li>
+                                                    <li><a href="#">Products value chain analysis</a></li>
+                                                    <li><a href="#">Resource cost benefit analyses</a></li>
+                                                    <li><a href="#">Resource scarcity and conflicts analyses</a></li>
+                                                    <li><a href="#">Socio-economic analyses and baseline studies</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="service.php">Water and Sanitation</a>
                                                 <ul>
-                                                    <li><a href="">Service</a></li>
-                                                    <li><a href="">Service Two</a></li>
-                                                    <li><a href="">Service Three</a></li>
-                                                    <li><a href="">Service Four</a></li>
-                                                    <li><a href="">Service Five</a></li>
-                                                    <li><a href="">Service Six</a></li>
-                                                    <li><a href="">Service Seven</a></li>
-                                                    <li><a href="">Service Details</a></li>
+                                                    <li><a href="#">Feasibility studies & integrated water resources planning</a></li>
+                                                    <li><a href="#">Industrial wastewater surveys/water works assessments</a></li>
+                                                    <li><a href="#">Sanitation and waste water master planning</a></li>
+                                                    <li><a href="#">Urban and rural water supply and distribution studies</a></li>
+                                                    <li><a href="#">Water demand, use, audits and distribution analyses</a></li>
+                                                    <li><a href="#">Water projects monitoring and evaluation</a></li>
+                                                    <li><a href="#">Water resources mapping and hydro-geological surveys</a></li>
+                                                    <li><a href="#">Water use and resilience enhancement studies</a></li>
+                                                    <li><a href="#">Water-energy-food nexus studies and analyses</a></li>
                                                 </ul>
                                         </ul>
                                     </li>

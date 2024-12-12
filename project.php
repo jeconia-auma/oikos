@@ -27,7 +27,7 @@
 
 
 <div class="table-container">
-    <h3>Resource Economics</h3>
+<h3 id="resource_economics">Resource Economics</h3>
 <table class="theme-color">
     <tbody>
         <tr>
@@ -1335,10 +1335,9 @@
             </td>
         </tr>
     </tbody>
-</table><br>
+</table><br><br>
 
-<h3>Water and Sanitation</h3>
-
+<h3 id="water">Water and Sanitation</h3>
 <table>
     <tbody>
         <tr>
@@ -1549,9 +1548,9 @@
             </td>
         </tr>
     </tbody>
-</table>
+</table><br><br>
 
-<h3>Eco-tourism and Leisure</h3>
+<h3 id="eco-tourism">Eco-tourism and Leisure</h3>
 <table>
     <tbody>
         <tr>
@@ -1630,9 +1629,9 @@
             </td>
         </tr>
     </tbody>
-</table>
+</table><br><br>
 
-<h3>Resource Ecology</h3>
+<h3 id="resource_ecology">Resource Ecology</h3>
 <table>
     <tbody>
         <tr>
@@ -1993,9 +1992,9 @@
             </td>
         </tr>
     </tbody>
-</table>
+</table><br><br>
 
-<h3>Projects Management</h3>
+<h3 id="projects_management">Projects Management</h3>
 <table>
     <tbody>
         <tr>
@@ -2122,9 +2121,9 @@
                 Kenya</td>
         </tr>
     </tbody>
-</table>
+</table><br><br>
 
-<h3>Business and Enterprise Development</h3>
+<h3 id="business">Business and Enterprise Development</h3>
 <table>
     <tbody>
         <tr>
@@ -2220,9 +2219,9 @@
             </td>
         </tr>
     </tbody>
-</table>
+</table><br><br>
 
-<h3>Documents Reviews and Editorials</h3>
+<h3 id="documents">Documents Reviews and Editorials</h3>
 <table>
     <tbody>
         <tr>
@@ -2274,7 +2273,7 @@
             </td>
         </tr>
     </tbody>
-</table>
+</table><br><br>
 
 </div>
 
