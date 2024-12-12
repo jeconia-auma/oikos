@@ -93,7 +93,7 @@
         <div class="mobile-menu-area text-center">
             <button class="menu-toggle"><i class="fas fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="index.html"><img src="assets/img/logo.svg" alt="Ecofine"></a>
+                <a href="index.php"><img src="assets/img/logo.svg" alt="oikos"></a>
             </div>
             <div class="mobile-menu">
                 <ul>
