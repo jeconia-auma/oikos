@@ -104,12 +104,26 @@
                         <a href="about.php">About Us</a>
                     </li>
                     <li class="menu-item-has-children">
-                        <a title="New Demo" href="service.php#">Services</a>
+                        <a title="" href="project.php">Projects</a> <!-- write in title Mega Menu -->
                         <ul class="sub-menu">
-                            <li class="menu-item-has-children">
-                                <a title="New Demo" href="index.php#">Env. Assmt & Audits</a>
-                                <ul class="sub-menu">
-                                
+                            <li><a href="project.php">Env. Assmt. & Audits</a>
+                                <ul>
+                                    <li><a href="project.php#resource_economics">Resource Economics</a></li>
+                                    <li><a href="project.php#water">Water and Sanitation</a></li>
+                                    <li><a href="project.php#eco-tourism">Eco-tourism and Leisure</a></li>
+                                    <li><a href="project.php#resource_ecology">Resource Ecology</a></li>
+                                    <li><a href="project.php#projects_management">Projects Management</a></li>
+                                    <li><a href="project.php#business">Business and Enterprise Development</a></li>
+                                    <li><a href="project.php#documents">Documents Reviews and Editorials</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu-item-has-children">
+                        <a title="" href="service.php">Services</a> <!-- write in title Mega Menu -->
+                        <ul class="mega-menu">
+                            <li><a href="service.php">Env. Assmt. & Audits</a>
+                                <ul>
                                     <li><a href="#">Agriculture sector</a></li>
                                     <li><a href="#-">Built environment sector</a></li>
                                     <li><a href="#-">Energy sector</a></li>
@@ -118,81 +132,35 @@
                                     <li><a href="#-">Transport infrastructure sector</a></li>
                                     <li><a href="#-">Tourism sector</a></li>
                                     <li><a href="#-">Water sector</a></li>
-                                                </ul>
-                                    <li>
-                                        <a href="index.php">Home One</a>
-                                    </li>
-                                    <li>
-                                        <a href="home-2.php">Home Two</a>
-                                    </li>
-                                    <li>
-                                        <a href="home-3.php">Home Three</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-4.php">Home Four</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-5.php">Home Five</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-6.php">Home Six</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo"  href="home-7.php">Home Seven</a>
-                                    </li>
-                            </li>
-                            <li class="menu-item-has-children">
-                                <a title="New Demo" href="index.php#">Resource Economics</a>
-                                <ul class="sub-menu">
-                                    <li>
-                                        <a href="home-1-rtl.php">Home One RTL</a>
-                                    </li>
-                                    <li>
-                                        <a href="home-2-rtl.php">Home Two RTL</a>
-                                    </li>
-                                    <li>
-                                        <a href="home-3-rtl.php">Home Three RTL</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-4-rtl.php">Home Four RTL</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-5-rtl.php">Home Five RTL</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-6-rtl.php">Home Six RTL</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-7-rtl.php">Home Seven RTL</a>
-                                    </li>
                                 </ul>
                             </li>
-                            <li class="menu-item-has-children">
-                                <a title="New Demo" href="index.php#">Water & Sanitation</a>
-                                <ul class="sub-menu">
-                                    <li>
-                                        <a href="home-1-rtl.php">Home One RTL</a>
-                                    </li>
-                                    <li>
-                                        <a href="home-2-rtl.php">Home Two RTL</a>
-                                    </li>
-                                    <li>
-                                        <a href="home-3-rtl.php">Home Three RTL</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-4-rtl.php">Home Four RTL</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-5-rtl.php">Home Five RTL</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-6-rtl.php">Home Six RTL</a>
-                                    </li>
-                                    <li>
-                                        <a title="New Demo" href="home-7-rtl.php">Home Seven RTL</a>
-                                    </li>
+                            <li><a href="service.php">Resource Economics</a>
+                                <ul>
+                                    <li><a href="#">Agriculture and rural development</a></li>
+                                    <li><a href="#">Economic impacts analyses</a></li>
+                                    <li><a href="#">Eco-tourism development and products pricing</a></li>
+                                    <li><a href="#">Energy, water and sanitation studies and planning</a></li>
+                                    <li><a href="#">Financial and products market research</a></li>
+                                    <li><a href="#">Poverty and natural resource degradation assessments</a></li>
+                                    <li><a href="#">Pre-feasibility, feasibility studies and investment risk analyses</a></li>
+                                    <li><a href="#">Products value chain analysis</a></li>
+                                    <li><a href="#">Resource cost benefit analyses</a></li>
+                                    <li><a href="#">Resource scarcity and conflicts analyses</a></li>
+                                    <li><a href="#">Socio-economic analyses and baseline studies</a></li>
                                 </ul>
                             </li>
+                            <li><a href="service.php">Water and Sanitation</a>
+                                <ul>
+                                    <li><a href="#">Feasibility studies & integrated water resources planning</a></li>
+                                    <li><a href="#">Industrial wastewater surveys/water works assessments</a></li>
+                                    <li><a href="#">Sanitation and waste water master planning</a></li>
+                                    <li><a href="#">Urban and rural water supply and distribution studies</a></li>
+                                    <li><a href="#">Water demand, use, audits and distribution analyses</a></li>
+                                    <li><a href="#">Water projects monitoring and evaluation</a></li>
+                                    <li><a href="#">Water resources mapping and hydro-geological surveys</a></li>
+                                    <li><a href="#">Water use and resilience enhancement studies</a></li>
+                                    <li><a href="#">Water-energy-food nexus studies and analyses</a></li>
+                                </ul>
                         </ul>
                     </li>
                     <li>
@@ -251,9 +219,9 @@
                                         <a href="about.php">About Us</a>
                                     </li>
                                     <li class="menu-item-has-children">
-                                        <a title="" href="service.php">Projects</a> <!-- write in title Mega Menu -->
+                                        <a title="" href="project.php">Projects</a> <!-- write in title Mega Menu -->
                                         <ul class="mega-menu">
-                                            <li><a href="service.php">Env. Assmt. & Audits</a>
+                                            <li><a href="project.php">Env. Assmt. & Audits</a>
                                                 <ul>
                                                     <li><a href="project.php#resource_economics">Resource Economics</a></li>
                                                     <li><a href="project.php#water">Water and Sanitation</a></li>
