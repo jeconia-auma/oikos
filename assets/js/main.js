@@ -341,7 +341,7 @@
             dots: d("dots") ? true : false,
             fade: d("fade") ? true : false,
             arrows: d("arrows") ? true : false,
-            speed: d("speed") ? d("speed") : 1000,
+            speed: d("speed") ? d("speed") : 800,
             sliderNavfor: d("slidernavfor") ? d("slidernavfor") : false,
             autoplay: d("autoplay") == false ? false : true,
             infinite: d("infinite") == false ? false : true,

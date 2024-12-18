@@ -138,7 +138,7 @@
                 <div class="col-lg-4">
                     <div class="testi-box">
                         <div class="testi-box_icon">
-                            <i class="fas fa-quote-right"></i>
+                            <i class="fas fa-bullseye"></i> 
                         </div> 
                         <!-- <div class="testi-box_review">
                             <i class="fas fa-star"></i>
@@ -163,7 +163,7 @@
                 <div class="col-lg-4">
                     <div class="testi-box">
                         <div class="testi-box_icon">
-                            <i class="fas fa-quote-right"></i>
+                            <i class="fas fas fa-book-open"></i>
                         </div> 
                         <!-- <div class="testi-box_review">
                             <i class="fas fa-star"></i>
@@ -188,7 +188,7 @@
                 <div class="col-lg-4">
                     <div class="testi-box">
                         <div class="testi-box_icon">
-                            <i class="fas fa-quote-right"></i>
+                            <i class="fas fa-graduation-cap"></i>
                         </div> 
                         <!-- <div class="testi-box_review">
                             <i class="fas fa-star"></i>
@@ -197,7 +197,7 @@
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                         </div> -->
-                        <h2>Certifications</h2>
+                        <h2 style="font-size: 2.8em;">Certifications</h2>
                         <p class="testi-box_text">
                             <ul>
                                 <li>Registered and Practicing Lead EIA/EA Firm No. <strong>6931</strong> – NEMA (Kenya)</li>
