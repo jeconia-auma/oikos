@@ -50,7 +50,7 @@
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
-                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                        <img src="assets/img/oikos/service-env.png" alt="img">
                                     </div>
                                     <div class="page-content">
                                         <h2 class="page-title">Environmental assessments</h2>
@@ -58,7 +58,7 @@
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
-                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                    <img src="assets/img/oikos/service-env.png" alt="img">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
@@ -84,12 +84,12 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> <!-- done -->
                         <div class="col-md-12 filter-item cat2" id="cat2">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
-                                        <img src="assets/img/oikos/oikos22.jpg" alt="img">
+                                        <img src="assets/img/oikos/service-ecology.png" alt="img">
                                     </div>
                                     <div class="page-content">
                                         <h2 class="page-title">Ecology and biodiversity</h2>
@@ -97,7 +97,7 @@
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
-                                                    <img src="assets/img/oikos/oikos22.jpg" alt="img">
+                                                    <img src="assets/img/oikos/service-ecology.png" alt="img">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
@@ -131,7 +131,7 @@
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
-                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                        <img src="assets/img/oikos/service-resource.png" alt="img">
                                     </div>
                                     <div class="page-content">
                                         <h2 class="page-title">Resource economics</h2>
@@ -139,7 +139,7 @@
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
-                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                    <img src="assets/img/oikos/service-resource.png" alt="img">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
@@ -161,12 +161,12 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> <!-- done -->
                         <div class="col-md-12 filter-item cat4" id="cat4">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
-                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                        <img src="assets/img/oikos/service-water.png" alt="img">
                                     </div>
                                     <div class="page-content">
                                         <h2 class="page-title">Water and sanitation</h2>
@@ -174,7 +174,7 @@
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
-                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                    <img src="assets/img/oikos/service-water.png" alt="img">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
@@ -202,12 +202,12 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> <!-- done -->
                         <div class="col-md-12 filter-item cat5"  id="cat5">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
-                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                        <img src="assets/img/oikos/service-energy.png" alt="img">
                                     </div>
                                     <div class="page-content">
                                         <h2 class="page-title">Energy</h2>
@@ -215,7 +215,7 @@
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
-                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                    <img src="assets/img/oikos/service-energy.png" alt="img">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
@@ -240,12 +240,12 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> <!-- done -->
                         <div class="col-md-12 filter-item cat6" id="cat6">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
-                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                        <img src="assets/img/oikos/service-occp.png" alt="img">
                                     </div>
                                     <div class="page-content">
                                         <h2 class="page-title">Occupational safety and health</h2>
@@ -253,7 +253,7 @@
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
-                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                    <img src="assets/img/oikos/service-occp.png" alt="img">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
@@ -274,7 +274,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> <!-- done -->
                         <div class="col-md-12 filter-item cat7" id="cat7">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
@@ -317,7 +317,7 @@
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
-                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                        <img src="assets/img/oikos/service-project.png" alt="img">
                                     </div>
                                     <div class="page-content">
                                         <h2 class="page-title">Projects development, monitoring and evaluation</h2>
@@ -325,7 +325,7 @@
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
-                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                    <img src="assets/img/oikos/service-project.png" alt="img">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
@@ -349,12 +349,12 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> <!-- done -->
                         <div class="col-md-12 filter-item cat9" id="cat9">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
-                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                        <img src="assets/img/oikos/service-biz.png" alt="img">
                                     </div>
                                     <div class="page-content">
                                         <h2 class="page-title">Eco-business and enterprise development</h2>
@@ -362,7 +362,7 @@
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
-                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                    <img src="assets/img/oikos/service-biz.png" alt="img">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
@@ -388,12 +388,12 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> <!-- done -->
                         <div class="col-md-12 filter-item cat10" id="cat10">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
-                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                        <img src="assets/img/oikos/service-mining.png" alt="img">
                                     </div>
                                     <div class="page-content">
                                         <h2 class="page-title">Mining and mineral exploration</h2>
@@ -401,7 +401,7 @@
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
-                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                    <img src="assets/img/oikos/service-mining.png" alt="img">
                                                 </div>
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
@@ -423,7 +423,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> <!-- done -->
                     </div>
                     <!-- end of testing the mariage -->
 
