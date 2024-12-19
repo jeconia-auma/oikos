@@ -177,7 +177,7 @@
         <div class="header-top">
             <div class="container">
                 <div class="row justify-content-center justify-content-lg-between align-items-center gy-2">
-                    <div class="col-auto d-none d-lg-block">
+                    <div class="col-8 d-none d-lg-block">
                         <div class="header-links">
                             <ul>
                                 <li>West Park Towers, Suite 508, Mpesi Lane, Off-Muthithi Road, Westlands, Nairobi</li>
@@ -185,12 +185,12 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-auto">
+                    <div class="col-4">
                         <div class="header-links">
                             <ul>
                                 <li>
                                     <div class="social-links">
-                                        <marquee>Oikos Veritas</marquee>
+                                        <marquee style="width: 100%;">Oikos Veritas Service Ltd ~ Ecology⎮Economics⎮Environment Consultants</marquee>
                                     </div>
                                 </li>
                             </ul>
