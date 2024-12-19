@@ -7,4 +7,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
 # Rewrite all requests to index.html or index.php and preserve query parameters
-RewriteRule ^(.*)$ index.php [QSA,L]
+RewriteRule ^(.*)$ service.php [QSA,L]
