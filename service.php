@@ -30,7 +30,7 @@
             <div class="row gy-30 justify-content-center">
                 <div class="col-xl-3">
                     <div class="project-tab-btn filter-menu-active text-center">
-                        <button data-filter="*" class="active btn" type="button">All Projects</button>
+                        <button data-filter="*" class="active btn" type="button">All Services</button>
                         <button class="btn" data-filter=".cat1" type="button">Environmental assessments</button>
                         <button class="btn" data-filter=".cat2" type="button">Ecology and biodiversity</button>
                         <button class="btn" data-filter=".cat3" type="button">Resource economics</button>
@@ -38,44 +38,15 @@
                         <button class="btn" data-filter=".cat5" type="button">Energy</button>
                         <button class="btn" data-filter=".cat6" type="button">Occupational safety and health</button>
                         <button class="btn" data-filter=".cat7" type="button">Eco-tourism and leisure</button>
+                        <button class="btn" data-filter=".cat8" type="button">Projects development</button>
+                        <button class="btn" data-filter=".cat9" type="button">Eco-business</button>
+                        <button class="btn" data-filter=".cat10" type="button">Mining and mineral</button>
                     </div>
                 </div>
                 <div class="col-xl-9">
                     <!-- testing the mariage -->
                     <div class="row filter-active gy-0">
-                        <!-- <div class="col-md-4 filter-item cat1 cat3" id="cat1">
-                            <div class="service-card">
-                                <div class="service-card_icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65" fill="none"><path d="M61.821 8.82586C60.9282 6.02078 59.7182 4.01224 59.6669 3.92783C59.4685 3.60119 59.0599 3.43121 58.6899 3.51591C58.5941 3.53781 56.3091 4.0706 53.6733 5.38584C50.1149 7.16064 47.6291 9.53008 46.484 12.237C45.5308 14.491 45.3939 17.2468 46.0702 20.2911C44.6297 18.684 43.0092 17.278 41.2429 16.0944C40.7035 15.0299 39.2773 12.409 37.0477 9.66995C36.3133 8.76818 34.9007 9.89984 35.6427 10.8106C37.145 12.6567 38.2759 14.4722 38.983 15.7195L30.7365 14.1134L22.9015 3.43691C23.6622 3.44742 24.4257 3.52083 25.1854 3.66978C27.5937 4.14073 29.9727 5.36625 32.2573 7.31142C33.1525 8.07371 34.315 6.68631 33.4315 5.93445C30.9078 3.78583 28.2504 2.42622 25.5331 1.89449C21.3851 1.08358 16.5472 2.1482 11.5411 4.97431C7.80996 7.08077 5.31481 9.39444 5.21062 9.49168C4.87681 9.80327 4.8237 10.3693 5.10315 10.7333C5.46912 11.4833 6.85564 14.1885 9.16356 17.1009C10.5241 18.8181 11.959 20.2877 13.4433 21.4955C13.0193 21.8498 12.6093 22.2204 12.214 22.6063C10.0927 24.6793 8.46842 27.1245 7.40218 29.7977C6.45955 32.1597 5.9526 34.7006 5.92431 37.3195C5.87757 41.6021 7.11964 45.7325 9.51708 49.2649C11.8591 52.7152 15.1331 55.3642 18.9849 56.9254C20.0631 57.3614 20.7447 55.6864 19.6659 55.2493C18.2808 54.6874 16.9665 53.9651 15.7498 53.0973C15.9045 52.2403 16.2632 49.1564 14.2128 45.9639C13.9257 45.5173 14.7838 43.7637 15.2961 42.716C15.8249 41.6365 16.3707 40.5203 16.6257 39.4693C16.8965 38.3528 16.5918 37.4156 15.7449 36.7581C15.1233 36.2754 14.3097 36.0255 13.5927 35.805C13.1268 35.6618 12.5987 35.4999 12.4102 35.3427C12.0217 35.0175 11.3872 33.8158 10.8772 32.8508C10.3114 31.7802 9.77287 30.7613 9.22285 30.1339C10.4605 27.1976 12.4483 24.5994 14.9378 22.6116C17.2118 24.1593 19.8074 25.2272 22.5661 25.4435C19.3667 27.9199 18.3317 31.0827 19.8111 34.1207C21.5386 37.6681 25.0944 37.1013 28.2316 36.602C28.7743 36.5154 29.336 36.4261 29.8738 36.3589C30.0756 36.3338 30.1365 36.3888 30.1771 36.4245C30.864 37.0351 30.8436 39.9505 30.8289 42.0796C30.8089 45.0245 30.7901 47.8062 31.8881 49.2344C32.4481 49.9625 33.237 50.3347 34.1614 50.3347C34.7155 50.3347 35.3175 50.2013 35.949 49.9307C38.6795 48.7626 41.5178 45.2468 41.0848 42.4651C40.7065 40.0331 40.456 38.4263 41.0464 37.1311C41.5921 35.9324 42.9116 34.8227 45.51 33.4065C45.827 34.8346 45.9786 36.2943 45.9619 37.757C45.9065 42.857 43.8659 47.6303 40.2165 51.1969C36.138 55.1829 30.4057 57.1515 24.7354 56.5271C23.58 56.4019 23.3804 58.1979 24.5373 58.3252C30.744 59.0082 37.0194 56.8526 41.4823 52.4902C45.4781 48.5852 47.7117 43.36 47.7724 37.7762C47.8532 30.3727 44.0507 23.8137 38.2623 20.0353C39.4583 19.1833 40.3493 18.4466 40.8434 18.0189C42.9539 19.5315 44.8258 21.3949 46.3832 23.5658C50.122 28.7784 51.6047 35.1328 50.5591 41.4597C48.3997 54.5202 36.0079 63.3917 22.9325 61.2336C16.599 60.1887 11.0523 56.7431 7.31364 51.5303C3.57448 46.3182 2.09178 39.9629 3.13773 33.6364C3.32554 32.4981 1.54031 32.1992 1.35173 33.3418C0.226496 40.1454 1.82169 46.9791 5.84146 52.5843C9.8619 58.1889 15.8273 61.8946 22.6375 63.0186C24.0476 63.2517 25.4743 63.369 26.9036 63.3695C32.256 63.3695 37.4627 61.7093 41.8996 58.5329C47.5112 54.5164 51.2209 48.558 52.3452 41.7543C53.1694 36.7689 52.5316 31.7674 50.5505 27.2447C51.465 26.9752 53.0208 26.4523 54.7249 25.6021C58.2827 23.8273 60.7687 21.4579 61.9135 18.751C63.0594 16.0436 63.0273 12.6114 61.821 8.82586ZM9.27577 33.6949C9.94948 34.9707 10.5865 36.1766 11.2485 36.7297C11.7173 37.1214 12.3699 37.3218 13.0605 37.534C14.83 38.0773 15.0355 38.3441 14.8658 39.0431C14.6575 39.9026 14.1551 40.9291 13.6697 41.9213C12.7346 43.8326 11.8516 45.6369 12.6886 46.9406C13.6099 48.3699 14.0866 50.0398 14.0586 51.7395C8.66627 46.8819 6.47056 39.2093 8.47923 32.2357C8.74545 32.6917 9.02519 33.2216 9.27577 33.6949ZM53.0773 15.921L50.5045 9.69214C51.7564 8.52238 53.209 7.64221 54.4461 7.02231C55.5 6.49396 56.5026 6.09912 57.3068 5.81907L53.0773 15.921ZM58.9758 6.52029C59.3353 7.29203 59.7522 8.28729 60.1082 9.4121C60.4986 10.6466 60.857 12.1765 60.9282 13.7724L54.8988 16.2574L58.9758 6.52029ZM48.1516 12.9412C48.4186 12.3103 48.7638 11.7255 49.1624 11.1855L52.0913 18.2755L49.4631 24.5542C49.0937 23.7716 48.6589 22.7435 48.2899 21.5758C47.5495 19.2376 46.9249 15.8408 48.1516 12.9412ZM53.9516 23.9656C52.9374 24.4743 51.9695 24.8594 51.1812 25.1372L53.9087 18.6229L60.8513 15.7609C60.7505 16.538 60.5586 17.3082 60.2458 18.0468C59.0196 20.9464 56.1462 22.8663 53.9516 23.9656ZM21.3067 23.4508C20.9882 23.3881 20.6723 23.3127 20.3599 23.2248L30.3797 15.8872L38.63 17.4936C35.6245 19.8593 28.3105 24.8217 21.3067 23.4508ZM12.1495 17.792C10.0066 15.4847 8.43607 13.0177 7.53418 11.438L18.0333 13.4831L12.1495 17.792ZM14.0038 5.72492L18.3966 11.7108L7.82947 9.65298C9.15989 8.60351 11.3559 7.0281 14.0038 5.72492ZM21.0158 12.221L15.6903 4.96379C17.2846 4.30926 18.996 3.79412 20.7503 3.56501L28.1176 13.6036L21.0158 12.221ZM20.4523 13.9541L27.9611 15.4161L18.3243 22.473C16.5069 21.6345 14.8713 20.4291 13.4403 19.089L20.4523 13.9541ZM45.0181 31.6159C41.7544 33.3531 40.1562 34.7175 39.398 36.382C38.5837 38.1693 38.882 40.0877 39.295 42.7428C39.539 44.3085 37.6765 47.224 35.2361 48.2682C34.333 48.6545 33.6899 48.6088 33.3237 48.1322C32.6043 47.1969 32.624 44.3661 32.6394 42.0921C32.661 38.9455 32.6798 36.2282 31.3804 35.0733C30.913 34.658 30.3152 34.4824 29.6509 34.5638C29.0817 34.6347 28.5043 34.7266 27.9464 34.8155C24.6184 35.3453 22.5242 35.5575 21.4394 33.3294C19.6817 29.7205 23.2397 27.0473 24.8512 26.0657C25.1793 25.866 25.4836 25.6304 25.7666 25.3682C29.6611 24.9031 33.341 23.2338 36.6204 21.1428C40.5522 23.4897 43.5705 27.2037 45.0181 31.6159Z" fill="#4BAF47"></path></svg>
-                                </div>
-                                <div class="service-card_content">
-                                    <h3 class="service-card_title "><a href="service-details.php">Environmental Assessments and Audits</a></h3>
-                                    <p class="service-card_text">We offer a comprehensive range of environmental services including Environmental Impacts Assessments (EIA),&#8230;&#8230;..</p>
-                                </div>
-                                <div class="service-card_img">
-                                    <img src="assets/img/oikos/oikos.png" alt="img">
-                                    <a href="service-details.php" class="btn">Read More <i class="fas fa-angle-double-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-            
-                        <div class="col-md-4 filter-item cat1" id="cat2">
-                            <div class="service-card">
-                                <div class="service-card_icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65" fill="none"><path d="M62.4705 24.8288H51.3748C51.256 24.8287 51.1383 24.8521 51.0286 24.8975C50.9188 24.9429 50.8191 25.0095 50.7351 25.0934C50.6511 25.1773 50.5844 25.2769 50.539 25.3866C50.4935 25.4962 50.4702 25.6138 50.4702 25.7324V30.8735H43.7163V25.7324C43.7164 25.6138 43.693 25.4962 43.6476 25.3865C43.6021 25.2769 43.5355 25.1772 43.4515 25.0933C43.3675 25.0094 43.2678 24.9428 43.158 24.8974C43.0482 24.8521 42.9306 24.8287 42.8118 24.8288H31.7161C31.4762 24.8288 31.2461 24.924 31.0765 25.0935C30.9068 25.2629 30.8115 25.4928 30.8115 25.7324V36.41L19.8063 47.683H18.3183L15.3869 23.0165C15.3608 22.7967 15.2549 22.5941 15.0893 22.4471C14.9237 22.3001 14.7098 22.219 14.4883 22.219H12.3589V19.2355C13.8287 19.1556 16.5816 18.7422 18.4396 16.8626C21.0247 14.2476 20.7481 9.93526 20.735 9.75346C20.7194 9.53469 20.6247 9.32904 20.4685 9.17489C20.3123 9.02073 20.1054 8.92859 19.8862 8.91564C19.7731 8.90928 18.0797 8.82224 16.1926 9.37349C15.6277 5.17301 12.0404 2.01854 11.8761 1.87579C11.7102 1.73212 11.4976 1.65366 11.2781 1.65505C11.0585 1.65643 10.8469 1.73756 10.6829 1.88331C10.5065 2.03965 6.36701 5.76918 6.39596 10.4848C6.42201 14.6092 9.62741 17.9396 10.5497 18.8131V22.2195H8.22887C8.00743 22.2194 7.79365 22.3005 7.62811 22.4475C7.46257 22.5944 7.35677 22.7969 7.3308 23.0166L6.30227 31.6709C6.16546 32.8232 7.96171 33.0381 8.09881 31.8841L8.32883 29.9495H14.3892L16.4964 47.6831H6.22123L7.5833 36.2216C7.72011 35.068 5.92608 34.8375 5.78666 36.0086L4.3997 47.683H2.52954C2.03014 47.683 1.625 48.0877 1.625 48.5866V62.4412C1.625 62.9405 2.03023 63.3448 2.52954 63.3448H62.4705C62.5893 63.3449 62.7069 63.3216 62.8167 63.2762C62.9265 63.2308 63.0262 63.1642 63.1102 63.0803C63.1942 62.9964 63.2608 62.8967 63.3063 62.7871C63.3517 62.6774 63.3751 62.5599 63.375 62.4412V53.224C63.375 52.0639 61.5659 52.062 61.5659 53.224V61.5376H3.43408V49.4904H20.1881C20.3087 49.4904 20.4281 49.4662 20.5393 49.4194C20.6504 49.3726 20.751 49.304 20.8352 49.2177L32.3636 37.4081C32.5284 37.2394 32.6206 37.0131 32.6206 36.7774V26.6362H41.9072V36.7774C41.9072 36.8961 41.9306 37.0136 41.976 37.1233C42.0215 37.2329 42.0881 37.3325 42.1721 37.4165C42.2561 37.5004 42.3558 37.5669 42.4656 37.6123C42.5753 37.6577 42.693 37.6811 42.8118 37.6811H51.3748C51.4936 37.6811 51.6112 37.6578 51.721 37.6124C51.8308 37.567 51.9305 37.5004 52.0145 37.4165C52.0985 37.3326 52.1651 37.233 52.2106 37.1233C52.256 37.0136 52.2794 36.8961 52.2793 36.7774V26.6362H61.5659V48.5249C61.5659 49.685 63.375 49.6869 63.375 48.5249V25.7325C63.3751 25.6138 63.3517 25.4963 63.3063 25.3866C63.2608 25.277 63.1942 25.1773 63.1102 25.0934C63.0262 25.0095 62.9265 24.9429 62.8167 24.8975C62.7069 24.8521 62.5893 24.8287 62.4705 24.8288ZM43.7163 32.6808H50.4702V35.8737H43.7163V32.6808ZM13.6852 24.0264L14.1743 28.1423H8.54283L9.0324 24.0264H13.6852ZM18.927 10.7342C18.869 11.944 18.5603 14.1689 17.1526 15.5926C15.7441 17.0177 13.5193 17.3536 12.3099 17.4259C12.3265 17.0787 12.3642 16.6461 12.4437 16.1686C12.6216 15.1042 13.0505 13.615 14.0861 12.5672C15.4939 11.1432 17.7171 10.8069 18.927 10.7342ZM12.7991 11.2975C11.3692 12.7438 10.8154 14.7085 10.6079 16.2071C9.53517 14.8855 8.2199 12.795 8.20514 10.4733C8.18671 7.55683 10.2461 4.96066 11.2916 3.83145C12.308 4.90234 14.2724 7.31094 14.4469 10.0798C13.8615 10.3947 13.2974 10.793 12.7991 11.2975Z" fill="#4BAF47"></path><path d="M38.436 43.1988H34.5747C34.3348 43.1988 34.1048 43.294 33.9352 43.4635C33.7655 43.633 33.6703 43.8628 33.6703 44.1024V56.0142C33.6703 56.5139 34.0755 56.9179 34.5748 56.9179H38.4361C38.5549 56.918 38.6726 56.8947 38.7823 56.8493C38.8921 56.8039 38.9919 56.7373 39.0759 56.6534C39.1599 56.5695 39.2265 56.4698 39.2719 56.3602C39.3173 56.2505 39.3407 56.1329 39.3405 56.0142V44.1024C39.3405 43.6035 38.9354 43.1988 38.436 43.1988ZM37.5315 55.1105H35.4792V45.0061H37.5315V55.1105ZM47.4822 43.1988H43.6209C43.381 43.1988 43.151 43.294 42.9813 43.4635C42.8117 43.633 42.7164 43.8628 42.7164 44.1024V56.0142C42.7164 56.5139 43.1216 56.9179 43.621 56.9179H47.4823C47.6011 56.9179 47.7187 56.8946 47.8285 56.8492C47.9382 56.8038 48.0379 56.7372 48.1219 56.6533C48.2059 56.5694 48.2725 56.4697 48.318 56.3601C48.3634 56.2504 48.3868 56.1329 48.3867 56.0142V44.1024C48.3867 43.6035 47.9816 43.1988 47.4822 43.1988ZM46.5777 55.1105H44.5254V45.0061H46.5777V55.1105ZM56.528 43.1988H52.6667C52.4268 43.1988 52.1968 43.294 52.0271 43.4635C51.8575 43.633 51.7622 43.8628 51.7622 44.1024V56.0142C51.7622 56.5139 52.1674 56.9179 52.6668 56.9179H56.5281C56.6469 56.9179 56.7645 56.8946 56.8742 56.8492C56.984 56.8038 57.0837 56.7372 57.1677 56.6533C57.2517 56.5694 57.3183 56.4697 57.3638 56.3601C57.4092 56.2504 57.4326 56.1329 57.4325 56.0142V44.1024C57.4325 43.6035 57.0274 43.1988 56.528 43.1988ZM55.6234 55.1105H53.5712V45.0061H55.6234V55.1105ZM28.0979 55.1515H7.59497C7.09557 55.1515 6.69043 55.5559 6.69043 56.0552C6.69043 56.5545 7.09566 56.9589 7.59497 56.9589H28.0979C28.5973 56.9589 29.0024 56.5545 29.0024 56.0552C29.0024 55.5559 28.5972 55.1515 28.0979 55.1515ZM58.758 6.01071C58.5979 6.07847 58.466 6.05774 58.362 5.94892C57.4948 3.38061 55.1222 1.65503 52.459 1.65503C49.28 1.65503 46.6478 4.0911 46.2633 7.22946C44.8218 7.55102 43.5882 8.56832 42.9976 9.97918C42.4828 11.2067 43.4314 12.5998 44.7535 12.5998H54.4502C55.6128 12.5998 55.6306 10.7925 54.4502 10.7925H44.7535C44.6827 10.7819 44.654 10.7436 44.6661 10.6766C45.0954 9.65242 46.07 8.96709 47.1506 8.93056C47.6375 8.91407 48.0238 8.51454 48.0238 8.02738V8.01417C48.0291 5.50312 50.0168 3.46234 52.4591 3.46234C54.3458 3.46234 56.0291 4.69354 56.6475 6.52659C56.9709 7.4821 57.8309 7.81802 58.7576 7.81802C60.3063 7.81802 61.5659 9.11697 61.5659 10.7217C61.5659 10.7579 61.5222 10.7925 61.4762 10.7925H59.5156C58.353 10.7925 58.3356 12.5998 59.5156 12.5998H61.4766C62.5205 12.5998 63.3724 11.7594 63.375 10.7266V10.7142C63.375 8.1203 61.3036 6.01071 58.758 6.01071ZM23.8888 21.174H40.6118C41.652 21.174 42.4944 20.3171 42.5103 19.2887C42.5103 16.6949 40.4388 14.5845 37.8933 14.5845C37.7339 14.6523 37.6019 14.6319 37.4972 14.5231C36.63 11.9548 34.2579 10.2296 31.5943 10.2296C28.4152 10.2296 25.783 12.6657 25.3986 15.804C23.9574 16.1252 22.7234 17.1429 22.1329 18.5535C21.6184 19.7809 22.5666 21.174 23.8888 21.174ZM40.7012 19.2964C40.7012 19.3325 40.6575 19.3667 40.6118 19.3667H23.8888C23.8183 19.3566 23.7893 19.3177 23.8014 19.251C24.2306 18.227 25.206 17.5417 26.2851 17.5048C26.5196 17.4969 26.7418 17.3983 26.9049 17.2298C27.068 17.0612 27.1591 16.836 27.1591 16.6016V16.5921C27.1625 14.0799 29.1509 12.0369 31.5943 12.0369C33.4811 12.0369 35.1642 13.2681 35.7835 15.1012C36.1065 16.0582 36.9658 16.3918 37.8933 16.3918C39.442 16.3918 40.7012 17.6912 40.7012 19.2887V19.2964Z" fill="#4BAF47"></path></svg>
-                                </div>
-                                <div class="service-card_content">
-                                    <h3 class="service-card_title "><a href="service-details.php">Resource Economics</a></h3>
-                                    <p class="service-card_text">Our resource economics services focus on providing better understanding and application of economic (micro and macro) principles to resource&#8230;&#8230;&#8230;&#8230;..</p>
-                                </div>
-                                <div class="service-card_img">
-                                    <img src="assets/img/oikos/oikos27.png" alt="img">
-                                    <a href="service-details.php" class="btn">Read More <i class="fas fa-angle-double-right"></i></a>
-                                </div>
-                            </div>
-                        </div> -->
-            
-                        <div class="col-md-12 filter-item cat1">
+                        <div class="col-md-12 filter-item cat1" id="cat1">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
@@ -114,20 +85,57 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-12 filter-item cat2">
+                        <div class="col-md-12 filter-item cat2" id="cat2">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/oikos/oikos22.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Ecology and biodiversity</h2>
+                                        <p class="mb-30">We offer pragmatic, reliable, and turn-key resource ecology and biodiversity consulting services that balance conservation and development needs in terrestrial and aquatic ecosystems. Our integrated approaches employ cutting-edge methodologies and standard application procedures to produce robust and practical sustainable solutions that work with nature and biodiversity, allowing clients to meet national and international guidelines such as IFC-PS6, WB-ESS6, AfDB OS on biodiversity and ecosystems, and the requirements of other financiers such as EDFI.</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/oikos/oikos22.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <h3 class="page-subtitle mb-15">Specialties</h3>
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>Baseline studies on species and habitats</li>
+                                                            <li><i class="fas fa-check-circle"></i>Biodiversity conservation action planning</li>
+                                                            <li><i class="fas fa-check-circle"></i>Climate change studies, adaptation and resilience</li>
+                                                            <li><i class="fas fa-check-circle"></i>Ecological research projects development</li>
+                                                            <li><i class="fas fa-check-circle"></i>GIS and remote sensing</li>
+                                                            <li><i class="fas fa-check-circle"></i>Invasive species assessments</li>
+                                                            <li><i class="fas fa-check-circle"></i>Land use and cover assessments</li>
+                                                            <li><i class="fas fa-check-circle"></i>Landscape ecology spatial planning</li>
+                                                            <li><i class="fas fa-check-circle"></i>Problem animal control in aviation sector</li>
+                                                            <li><i class="fas fa-check-circle"></i>Protected species surveys and targeted studies</li>
+                                                            <li><i class="fas fa-check-circle"></i>Resource inventories, mapping and action planning</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div> <!-- done -->
+                        <div class="col-md-12 filter-item cat3" id="cat3">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
                                         <img src="assets/img/service/service-details1-1.jpg" alt="img">
                                     </div>
                                     <div class="page-content">
-                                        <h2 class="page-title">Some examples of our services:</h2>
-                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
-                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
-                                        <blockquote>
-                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
-                                        </blockquote>
-                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <h2 class="page-title">Resource economics</h2>
+                                        <p class="mb-30">Our resource economics consulting services focus on providing a better understanding and application of economic (micro and macro) principles to natural resource management. We analyse and explain interactions between economics and resource use with the goal of developing a sustainable and efficient economy. We focus on addressing the socioeconomic impacts of actions related to the use of resources and to better understanding the role of such resources in economic development. We integrate economics and environmental expertise with exceptional abilities to provide critical answers to complex relationships between economics, resource use, and decision-making.</p>
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
@@ -136,17 +144,13 @@
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="service-wrap">
-                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
-                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <h3 class="page-subtitle mb-15">Specialties</h3>
                                                     <div class="checklist mb-30 mt-25">
                                                         <ul>
-                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Green Cleaning Services</li>
-                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
-                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Solar Panel Installation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Agriculture and rural development</li>
+                                                            <li><i class="fas fa-check-circle"></i>Economic impacts analyses</li>
+                                                            <li><i class="fas fa-check-circle"></i>Eco-tourism development and products pricing</li>
+                                                            <li><i class="fas fa-check-circle"></i>Energy, water and sanitation studies and planning</li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -158,20 +162,15 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-12 filter-item cat3">
+                        <div class="col-md-12 filter-item cat4" id="cat4">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
                                         <img src="assets/img/service/service-details1-1.jpg" alt="img">
                                     </div>
                                     <div class="page-content">
-                                        <h2 class="page-title">Some examples of our services:</h2>
-                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
-                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
-                                        <blockquote>
-                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
-                                        </blockquote>
-                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <h2 class="page-title">Water and sanitation</h2>
+                                        <p class="mb-30">Clean drinking water, hygiene, and sanitation play an important part in maintaining health. Access to clean water and sanitation facilities is increasingly becoming a challenge in many rural and urban areas in developing countries. We focus on providing solutions to public and private sector entities on best practises and solutions in water and sanitation. Our services in water and sanitation are multidisciplinary, and cover the whole project cycle, from identification, research studies, and implementation to monitoring, evaluation, and learning.</p>
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
@@ -180,17 +179,19 @@
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="service-wrap">
-                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
-                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <h3 class="page-subtitle mb-15">Specialties</h3>
                                                     <div class="checklist mb-30 mt-25">
                                                         <ul>
-                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Green Cleaning Services</li>
-                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
-                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Solar Panel Installation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Water resources mapping and studies</li>
+                                                            <li><i class="fas fa-check-circle"></i>Feasibility studies & integrated water resources planning</li>
+                                                            <li><i class="fas fa-check-circle"></i>Industrial wastewater surveys/water works assessments</li>
+                                                            <li><i class="fas fa-check-circle"></i>Sanitation and waste water master planning</li>
+                                                            <li><i class="fas fa-check-circle"></i>Urban and rural water supply and distribution studies</li>
+                                                            <li><i class="fas fa-check-circle"></i>Water demand, use, audits and distribution analyses</li>
+                                                            <li><i class="fas fa-check-circle"></i>Water projects monitoring and evaluation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Water resources mapping and hydro-geological surveys</li>
+                                                            <li><i class="fas fa-check-circle"></i>Water use and resilience enhancement studies</li>
+                                                            <li><i class="fas fa-check-circle"></i>Water-energy-food nexus studies and analyses</li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -202,20 +203,15 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-12 filter-item cat4">
+                        <div class="col-md-12 filter-item cat5"  id="cat5">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
                                         <img src="assets/img/service/service-details1-1.jpg" alt="img">
                                     </div>
                                     <div class="page-content">
-                                        <h2 class="page-title">Some examples of our services:</h2>
-                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
-                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
-                                        <blockquote>
-                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
-                                        </blockquote>
-                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <h2 class="page-title">Energy</h2>
+                                        <p class="mb-30">We offer consulting services in the energy sector in Kenya and eastern Africa. We provide environmental, health, safety, risk, social, and feasibility consulting services and a broad range of sustainability services in the sector to meet our clients’ needs. We have independently and in collaboration with our partners, undertaken consulting services for leading national and international energy, oil and gas companies in Kenya, most of which have had a long-term association with our company. Our clients benefit from our ability to meet their needs through a unique set of integrated consulting services, market research, and investment opportunity development.</p>
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
@@ -224,17 +220,16 @@
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="service-wrap">
-                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
-                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <h3 class="page-subtitle mb-15">Specialties</h3>
                                                     <div class="checklist mb-30 mt-25">
                                                         <ul>
-                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Green Cleaning Services</li>
-                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
-                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Solar Panel Installation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Energy projects sites assessments in compliance with IFC PS6</li>
+                                                            <li><i class="fas fa-check-circle"></i>Energy audits and assessment</li>
+                                                            <li><i class="fas fa-check-circle"></i>Energy, oil and gas demand, use and distribution analyses</li>
+                                                            <li><i class="fas fa-check-circle"></i>Energy, oil and gas use and resilience enhancement studies</li>
+                                                            <li><i class="fas fa-check-circle"></i>Feasibility studies & integrated resource planning and investment</li>
+                                                            <li><i class="fas fa-check-circle"></i>Projects monitoring and evaluation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Resource mapping and surveys</li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -246,20 +241,15 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-12 filter-item cat5">
+                        <div class="col-md-12 filter-item cat6" id="cat6">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
                                         <img src="assets/img/service/service-details1-1.jpg" alt="img">
                                     </div>
                                     <div class="page-content">
-                                        <h2 class="page-title">Some examples of our services:</h2>
-                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
-                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
-                                        <blockquote>
-                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
-                                        </blockquote>
-                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <h2 class="page-title">Occupational safety and health</h2>
+                                        <p class="mb-30">Through our team of trained Occupational safety & health; and fire safety advisors who are accredited with national and international organisations and agencies, we provide detailed audits and baseline assessments of the facilities with respect to occupational safety, health, fire safety and risk management to enable our clients to develop appropriate occupational safety and health procedures in work places. We further facilitate in-house training on occupational safety and health awareness management.</p>
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
@@ -268,17 +258,12 @@
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="service-wrap">
-                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
-                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <h3 class="page-subtitle mb-15">Specialties</h3>
                                                     <div class="checklist mb-30 mt-25">
                                                         <ul>
-                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Green Cleaning Services</li>
-                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
-                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Solar Panel Installation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Workplace Safety, Health and Welfare Conditions assessments</li>
+                                                            <li><i class="fas fa-check-circle"></i>Occupational Health and Hygiene Conditions assessments</li>
+                                                            <li><i class="fas fa-check-circle"></i>General work place conditions assessments and evaluations</li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -290,20 +275,53 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-12 filter-item cat6">
+                        <div class="col-md-12 filter-item cat7" id="cat7">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/oikos/oikos28.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Eco-tourism and leisure</h2>
+                                        <p class="mb-30">Ecotourism is increasingly recognised for its multiple benefits to many economies, and assists visitors to see natural areas in a low-impact fashion. We offer a broad range of consulting services in the eco-tourism and leisure sectors for both established and emerging enterprises. Our focus is on providing solutions in product development, including exploring new frontiers of eco-tourism and leisure through feasibility studies and business development.</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/oikos/oikos27.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <h3 class="page-subtitle mb-15">Specialties</h3>
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>Consumer trends analysis and insights</li>
+                                                            <li><i class="fas fa-check-circle"></i>Facility audits, reviews and due diligence reporting</li>
+                                                            <li><i class="fas fa-check-circle"></i>Feasibility/programming studies –technical assistance</li>
+                                                            <li><i class="fas fa-check-circle"></i>Information systems and content creation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Products pricing, market studies and business planning</li>
+                                                            <li><i class="fas fa-check-circle"></i>Project set-up, planning and impacts evaluation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Public policy evaluation – impact studies & tourism statistics</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div> <!-- done -->
+                        <div class="col-md-12 filter-item cat8" id="cat8">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
                                         <img src="assets/img/service/service-details1-1.jpg" alt="img">
                                     </div>
                                     <div class="page-content">
-                                        <h2 class="page-title">Some examples of our services:</h2>
-                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
-                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
-                                        <blockquote>
-                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
-                                        </blockquote>
-                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <h2 class="page-title">Projects development, monitoring and evaluation</h2>
+                                        <p class="mb-30">We offer consulting services in project development and management for small and medium-sized projects. We support our clients' or customers' initiate, plan, execute, and control outputs that meet specific goals and ensure success. Our services are fully customisable to suit a client’s needs and often blend consultancy and capacity development. We support our clients with monitoring and evaluation of their projects, and implement project delivery approaches, taking into consideration risk assessments and analyses of critical project parameters.</p>
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
@@ -312,17 +330,15 @@
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="service-wrap">
-                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
-                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <h3 class="page-subtitle mb-15">Specialties</h3>
                                                     <div class="checklist mb-30 mt-25">
                                                         <ul>
-                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Green Cleaning Services</li>
-                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
-                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Solar Panel Installation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Projects supervision and advisory on ecology and environmental matters</li>
+                                                            <li><i class="fas fa-check-circle"></i>Evaluation of projects proposals</li>
+                                                            <li><i class="fas fa-check-circle"></i>Project quality management and deliverables tracking</li>
+                                                            <li><i class="fas fa-check-circle"></i>Projects monitoring, evaluation and learning</li>
+                                                            <li><i class="fas fa-check-circle"></i>Projects resource mobilization advisory</li>
+                                                            <li><i class="fas fa-check-circle"></i>Technical and environmental due diligence (TEDD)</li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -334,20 +350,15 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-12 filter-item cat7">
+                        <div class="col-md-12 filter-item cat9" id="cat9">
                             <div class="col-xxl-12 col-lg-11">
                                 <div class="service-page-single">
                                     <div class="page-img mb-40">
                                         <img src="assets/img/service/service-details1-1.jpg" alt="img">
                                     </div>
                                     <div class="page-content">
-                                        <h2 class="page-title">Some examples of our services:</h2>
-                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
-                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
-                                        <blockquote>
-                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
-                                        </blockquote>
-                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <h2 class="page-title">Eco-business and enterprise development</h2>
+                                        <p class="mb-30">We facilitate the rethinking of businesses to achieve sustainability and goals by offering services that increase profitability, drive innovation and efficiency through eco-business development and conservation, and environmental policy development and reviews. We promote businesses and enterprises across different sectors through the adoption of approaches that ensure greater ownership of the outputs; and are compliant with the relevant legislations.</p>
                                         <div class="row flex-row-reverse">
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="page-img mb-30">
@@ -356,17 +367,52 @@
                                             </div>
                                             <div class="col-xl-6 col-lg-12 col-md-6">
                                                 <div class="service-wrap">
-                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
-                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <h3 class="page-subtitle mb-15">Specialties</h3>
                                                     <div class="checklist mb-30 mt-25">
                                                         <ul>
-                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Green Cleaning Services</li>
-                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
-                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
-                                                            <li><i class="fas fa-check-circle"></i>
-                                                                Solar Panel Installation</li>
+                                                            <li><i class="fas fa-check-circle"></i>Carbon/environmental footprint assessments</li>
+                                                            <li><i class="fas fa-check-circle"></i>Green business feasibility studies and products development</li>
+                                                            <li><i class="fas fa-check-circle"></i>Green products development and planning</li>
+                                                            <li><i class="fas fa-check-circle"></i>Utility (energy and water) audits and usage plans</li>
+                                                            <li><i class="fas fa-check-circle"></i>Waste reduction and recycling strategies and plans</li>
+                                                            <li><i class="fas fa-check-circle"></i>Business planning and feasibility studies</li>
+                                                            <li><i class="fas fa-check-circle"></i>Business value and block chains analyses</li>
+                                                            <li><i class="fas fa-check-circle"></i>Policy reviews</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 filter-item cat10" id="cat10">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Mining and mineral exploration</h2>
+                                        <p class="mb-30">Our consulting services are meant to support mining and mineral exploration in all aspects associated with research and resource mapping. We can assist at all stages of operations, from site investigation, planning, and rehabilitation, with the understanding that mining operations usually create a negative environmental impact, both during the operation and after the closure, including undertaking environmental, health, safety, and risk audits.</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <h3 class="page-subtitle mb-15">Specialties</h3>
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>EHS audits and due diligence reporting</li>
+                                                            <li><i class="fas fa-check-circle"></i>Full planning applications for quarries and mining projects</li>
+                                                            <li><i class="fas fa-check-circle"></i>Geophysical and topographical surveys</li>
+                                                            <li><i class="fas fa-check-circle"></i>Resource mapping, assessment and feasibility studies</li>
                                                         </ul>
                                                     </div>
                                                 </div>
