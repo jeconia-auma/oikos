@@ -34,16 +34,16 @@
                         <button class="btn" data-filter=".cat1" type="button">Environmental assessments</button>
                         <button class="btn" data-filter=".cat2" type="button">Ecology and biodiversity</button>
                         <button class="btn" data-filter=".cat3" type="button">Resource economics</button>
-                        <button class="btn" data-filter=".cat3" type="button">Water and sanitation</button>
-                        <button class="btn" data-filter=".cat3" type="button">Energy</button>
-                        <button class="btn" data-filter=".cat3" type="button">Occupational safety and health</button>
-                        <button class="btn" data-filter=".cat3" type="button">Eco-tourism and leisure</button>
+                        <button class="btn" data-filter=".cat4" type="button">Water and sanitation</button>
+                        <button class="btn" data-filter=".cat5" type="button">Energy</button>
+                        <button class="btn" data-filter=".cat6" type="button">Occupational safety and health</button>
+                        <button class="btn" data-filter=".cat7" type="button">Eco-tourism and leisure</button>
                     </div>
                 </div>
                 <div class="col-xl-9">
                     <!-- testing the mariage -->
                     <div class="row filter-active gy-0">
-                        <div class="col-md-4 filter-item cat1 cat3" id="cat1">
+                        <!-- <div class="col-md-4 filter-item cat1 cat3" id="cat1">
                             <div class="service-card">
                                 <div class="service-card_icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65" fill="none"><path d="M61.821 8.82586C60.9282 6.02078 59.7182 4.01224 59.6669 3.92783C59.4685 3.60119 59.0599 3.43121 58.6899 3.51591C58.5941 3.53781 56.3091 4.0706 53.6733 5.38584C50.1149 7.16064 47.6291 9.53008 46.484 12.237C45.5308 14.491 45.3939 17.2468 46.0702 20.2911C44.6297 18.684 43.0092 17.278 41.2429 16.0944C40.7035 15.0299 39.2773 12.409 37.0477 9.66995C36.3133 8.76818 34.9007 9.89984 35.6427 10.8106C37.145 12.6567 38.2759 14.4722 38.983 15.7195L30.7365 14.1134L22.9015 3.43691C23.6622 3.44742 24.4257 3.52083 25.1854 3.66978C27.5937 4.14073 29.9727 5.36625 32.2573 7.31142C33.1525 8.07371 34.315 6.68631 33.4315 5.93445C30.9078 3.78583 28.2504 2.42622 25.5331 1.89449C21.3851 1.08358 16.5472 2.1482 11.5411 4.97431C7.80996 7.08077 5.31481 9.39444 5.21062 9.49168C4.87681 9.80327 4.8237 10.3693 5.10315 10.7333C5.46912 11.4833 6.85564 14.1885 9.16356 17.1009C10.5241 18.8181 11.959 20.2877 13.4433 21.4955C13.0193 21.8498 12.6093 22.2204 12.214 22.6063C10.0927 24.6793 8.46842 27.1245 7.40218 29.7977C6.45955 32.1597 5.9526 34.7006 5.92431 37.3195C5.87757 41.6021 7.11964 45.7325 9.51708 49.2649C11.8591 52.7152 15.1331 55.3642 18.9849 56.9254C20.0631 57.3614 20.7447 55.6864 19.6659 55.2493C18.2808 54.6874 16.9665 53.9651 15.7498 53.0973C15.9045 52.2403 16.2632 49.1564 14.2128 45.9639C13.9257 45.5173 14.7838 43.7637 15.2961 42.716C15.8249 41.6365 16.3707 40.5203 16.6257 39.4693C16.8965 38.3528 16.5918 37.4156 15.7449 36.7581C15.1233 36.2754 14.3097 36.0255 13.5927 35.805C13.1268 35.6618 12.5987 35.4999 12.4102 35.3427C12.0217 35.0175 11.3872 33.8158 10.8772 32.8508C10.3114 31.7802 9.77287 30.7613 9.22285 30.1339C10.4605 27.1976 12.4483 24.5994 14.9378 22.6116C17.2118 24.1593 19.8074 25.2272 22.5661 25.4435C19.3667 27.9199 18.3317 31.0827 19.8111 34.1207C21.5386 37.6681 25.0944 37.1013 28.2316 36.602C28.7743 36.5154 29.336 36.4261 29.8738 36.3589C30.0756 36.3338 30.1365 36.3888 30.1771 36.4245C30.864 37.0351 30.8436 39.9505 30.8289 42.0796C30.8089 45.0245 30.7901 47.8062 31.8881 49.2344C32.4481 49.9625 33.237 50.3347 34.1614 50.3347C34.7155 50.3347 35.3175 50.2013 35.949 49.9307C38.6795 48.7626 41.5178 45.2468 41.0848 42.4651C40.7065 40.0331 40.456 38.4263 41.0464 37.1311C41.5921 35.9324 42.9116 34.8227 45.51 33.4065C45.827 34.8346 45.9786 36.2943 45.9619 37.757C45.9065 42.857 43.8659 47.6303 40.2165 51.1969C36.138 55.1829 30.4057 57.1515 24.7354 56.5271C23.58 56.4019 23.3804 58.1979 24.5373 58.3252C30.744 59.0082 37.0194 56.8526 41.4823 52.4902C45.4781 48.5852 47.7117 43.36 47.7724 37.7762C47.8532 30.3727 44.0507 23.8137 38.2623 20.0353C39.4583 19.1833 40.3493 18.4466 40.8434 18.0189C42.9539 19.5315 44.8258 21.3949 46.3832 23.5658C50.122 28.7784 51.6047 35.1328 50.5591 41.4597C48.3997 54.5202 36.0079 63.3917 22.9325 61.2336C16.599 60.1887 11.0523 56.7431 7.31364 51.5303C3.57448 46.3182 2.09178 39.9629 3.13773 33.6364C3.32554 32.4981 1.54031 32.1992 1.35173 33.3418C0.226496 40.1454 1.82169 46.9791 5.84146 52.5843C9.8619 58.1889 15.8273 61.8946 22.6375 63.0186C24.0476 63.2517 25.4743 63.369 26.9036 63.3695C32.256 63.3695 37.4627 61.7093 41.8996 58.5329C47.5112 54.5164 51.2209 48.558 52.3452 41.7543C53.1694 36.7689 52.5316 31.7674 50.5505 27.2447C51.465 26.9752 53.0208 26.4523 54.7249 25.6021C58.2827 23.8273 60.7687 21.4579 61.9135 18.751C63.0594 16.0436 63.0273 12.6114 61.821 8.82586ZM9.27577 33.6949C9.94948 34.9707 10.5865 36.1766 11.2485 36.7297C11.7173 37.1214 12.3699 37.3218 13.0605 37.534C14.83 38.0773 15.0355 38.3441 14.8658 39.0431C14.6575 39.9026 14.1551 40.9291 13.6697 41.9213C12.7346 43.8326 11.8516 45.6369 12.6886 46.9406C13.6099 48.3699 14.0866 50.0398 14.0586 51.7395C8.66627 46.8819 6.47056 39.2093 8.47923 32.2357C8.74545 32.6917 9.02519 33.2216 9.27577 33.6949ZM53.0773 15.921L50.5045 9.69214C51.7564 8.52238 53.209 7.64221 54.4461 7.02231C55.5 6.49396 56.5026 6.09912 57.3068 5.81907L53.0773 15.921ZM58.9758 6.52029C59.3353 7.29203 59.7522 8.28729 60.1082 9.4121C60.4986 10.6466 60.857 12.1765 60.9282 13.7724L54.8988 16.2574L58.9758 6.52029ZM48.1516 12.9412C48.4186 12.3103 48.7638 11.7255 49.1624 11.1855L52.0913 18.2755L49.4631 24.5542C49.0937 23.7716 48.6589 22.7435 48.2899 21.5758C47.5495 19.2376 46.9249 15.8408 48.1516 12.9412ZM53.9516 23.9656C52.9374 24.4743 51.9695 24.8594 51.1812 25.1372L53.9087 18.6229L60.8513 15.7609C60.7505 16.538 60.5586 17.3082 60.2458 18.0468C59.0196 20.9464 56.1462 22.8663 53.9516 23.9656ZM21.3067 23.4508C20.9882 23.3881 20.6723 23.3127 20.3599 23.2248L30.3797 15.8872L38.63 17.4936C35.6245 19.8593 28.3105 24.8217 21.3067 23.4508ZM12.1495 17.792C10.0066 15.4847 8.43607 13.0177 7.53418 11.438L18.0333 13.4831L12.1495 17.792ZM14.0038 5.72492L18.3966 11.7108L7.82947 9.65298C9.15989 8.60351 11.3559 7.0281 14.0038 5.72492ZM21.0158 12.221L15.6903 4.96379C17.2846 4.30926 18.996 3.79412 20.7503 3.56501L28.1176 13.6036L21.0158 12.221ZM20.4523 13.9541L27.9611 15.4161L18.3243 22.473C16.5069 21.6345 14.8713 20.4291 13.4403 19.089L20.4523 13.9541ZM45.0181 31.6159C41.7544 33.3531 40.1562 34.7175 39.398 36.382C38.5837 38.1693 38.882 40.0877 39.295 42.7428C39.539 44.3085 37.6765 47.224 35.2361 48.2682C34.333 48.6545 33.6899 48.6088 33.3237 48.1322C32.6043 47.1969 32.624 44.3661 32.6394 42.0921C32.661 38.9455 32.6798 36.2282 31.3804 35.0733C30.913 34.658 30.3152 34.4824 29.6509 34.5638C29.0817 34.6347 28.5043 34.7266 27.9464 34.8155C24.6184 35.3453 22.5242 35.5575 21.4394 33.3294C19.6817 29.7205 23.2397 27.0473 24.8512 26.0657C25.1793 25.866 25.4836 25.6304 25.7666 25.3682C29.6611 24.9031 33.341 23.2338 36.6204 21.1428C40.5522 23.4897 43.5705 27.2037 45.0181 31.6159Z" fill="#4BAF47"></path></svg>
@@ -73,20 +73,308 @@
                                     <a href="service-details.php" class="btn">Read More <i class="fas fa-angle-double-right"></i></a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
             
-                        <div class="col-md-4 filter-item cat2 cat3">
-                            <div class="service-card">
-                                <div class="service-card_icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65" fill="none"><path d="M13.7157 17.3311L23.7597 23.3585C24.1746 23.6076 24.7502 23.4669 25.0012 23.0474L32.6385 10.2855L37.8125 18.9293L34.6896 20.8034C33.9558 21.2437 34.2215 22.4048 35.0736 22.4814L47.7164 23.6235C47.9073 23.6408 48.0986 23.597 48.263 23.4984C48.4273 23.3998 48.5561 23.2515 48.6308 23.0749L53.5869 11.3719C53.9207 10.5834 53.0231 9.80132 52.2889 10.242L49.4237 11.9611L45.4743 5.06153C44.5603 3.4644 42.8545 2.47534 41.0229 2.47534H24.4174C22.6155 2.47534 20.9251 3.43659 20.0032 4.98861L17.7426 8.79072C17.149 9.79002 18.703 10.7178 19.2977 9.71691L21.558 5.91403C22.1553 4.90941 23.2494 4.28619 24.4174 4.28619H24.4336L27.6134 4.30203C28.5817 4.43859 29.5221 5.0792 30.0783 6.00838L31.5836 8.52358L23.9139 21.3396L15.4192 16.2416L16.6094 14.2395C17.2034 13.2401 15.6494 12.3124 15.0547 13.3133L13.4031 16.0914C13.2808 16.2974 13.245 16.5435 13.3035 16.7758C13.3621 17.0082 13.5102 17.2078 13.7156 17.3311H13.7157ZM31.0503 4.27827L40.999 4.28696H41.0171C42.2069 4.28696 43.3124 4.92718 43.9044 5.96203L48.3122 13.663C48.372 13.7675 48.452 13.859 48.5475 13.9322C48.643 14.0053 48.7522 14.0587 48.8686 14.0891C48.985 14.1195 49.1063 14.1263 49.2253 14.1092C49.3444 14.0921 49.4588 14.0513 49.562 13.9894L50.837 13.2246L47.2222 21.7606L38.0001 20.928L39.5178 20.0172C39.9464 19.7603 40.0858 19.2042 39.8288 18.7749L31.6303 5.07814C31.4608 4.79502 31.2666 4.52737 31.0503 4.27827ZM62.7239 36.2436L56.4211 24.9683C56.178 24.533 55.628 24.3765 55.1924 24.6194L53.0604 25.8059C52.045 26.3706 52.9232 27.9547 53.9393 27.3885L55.2829 26.6404L61.1451 37.1275C61.7179 38.1529 61.7066 39.4212 61.1149 40.4361L59.3074 43.5363C58.5667 44.4825 57.5721 44.718 56.8097 44.7315H53.9939L46.6268 31.4584L49.5443 29.8342C50.5597 29.2696 49.6819 27.6858 48.6651 28.2517L44.9572 30.3153C44.5208 30.5582 44.3636 31.1094 44.606 31.5467L51.9244 44.7316H41.7623L41.7032 41.0718C41.6897 40.2154 40.5517 39.8645 40.0588 40.5651L32.749 50.9582C32.6388 51.1149 32.5811 51.3026 32.5843 51.4942C32.5875 51.6858 32.6514 51.8714 32.7667 52.0244L40.41 62.1746C40.9244 62.8585 42.0506 62.4711 42.0367 61.6147L41.982 58.2695L49.9239 58.2948H49.9405C51.7816 58.2944 53.4908 57.3015 54.4002 55.7042C57.1636 50.9212 59.8964 46.118 62.6772 41.349C63.5907 39.7826 63.6084 37.8261 62.7239 36.2436ZM49.9401 56.484H49.9295L41.0658 56.4564C40.9456 56.4565 40.8265 56.4803 40.7155 56.5264C40.6044 56.5726 40.5036 56.6402 40.4187 56.7254C40.3342 56.8111 40.2677 56.9128 40.223 57.0245C40.1783 57.1363 40.1563 57.2558 40.1583 57.3762L40.1824 58.8644L34.6082 51.4619L39.9392 43.8812L39.9679 45.6521C39.9718 45.8897 40.0687 46.1162 40.238 46.2828C40.4072 46.4494 40.6351 46.5428 40.8724 46.5427H56.8319C57.104 46.5387 57.3756 46.5152 57.6444 46.4726L52.8309 54.8025C52.2399 55.8404 51.1329 56.484 49.9401 56.484ZM28.8651 45.0463C28.7098 44.8908 28.4505 44.7825 28.2251 44.7825L13.367 44.8217L18.0879 35.9214L21.3028 37.6318C22.0581 38.0341 22.9151 37.2071 22.5409 36.4364L16.99 25.0042C16.9063 24.8317 16.7701 24.6902 16.6008 24.6003C16.4316 24.5103 16.2382 24.4764 16.0485 24.5036L3.48073 26.2955C2.6336 26.4162 2.42809 27.5895 3.18375 27.9912L6.13443 29.5614L2.27246 36.5109C1.3739 38.1275 1.41356 40.1123 2.37309 41.6866C5.10099 46.2262 7.82521 50.7683 10.5569 55.3064C11.6253 57.08 13.1808 58.4056 15.3603 58.3921L20.053 58.3656C21.2138 58.3589 21.2078 56.5544 20.0433 56.5544L15.3506 56.5812C14.1735 56.5914 13.0745 55.9648 12.4734 54.9552L10.8448 52.2204C10.4612 51.3187 10.5237 50.1816 11.0318 49.2242L12.4055 46.6351L27.3251 46.5955L27.3516 56.5132L25.6589 56.5227C24.4984 56.5291 24.5045 58.3339 25.6691 58.3339L28.2635 58.3193C28.503 58.318 28.7322 58.2217 28.9009 58.0514C29.0695 57.8811 29.1637 57.6509 29.1628 57.4111L29.1324 45.6855C29.132 45.5666 29.1082 45.4489 29.0624 45.3392C29.0165 45.2295 28.9495 45.1299 28.8651 45.0462V45.0463ZM9.04969 49.2838L3.92031 40.748C3.29702 39.7253 3.27126 38.4388 3.85364 37.3915L8.16368 29.6352C8.22214 29.53 8.25907 29.4142 8.27229 29.2945C8.28552 29.1748 8.27478 29.0537 8.2407 28.9383C8.20663 28.8228 8.1499 28.7153 8.07384 28.6221C7.99778 28.5288 7.90391 28.4517 7.79771 28.3951L6.48418 27.6965L15.6509 26.3896L19.6999 34.7282L18.1384 33.8971C17.9263 33.7845 17.6783 33.7608 17.4487 33.8311C17.3351 33.8657 17.2294 33.9225 17.1378 33.9982C17.0461 34.0739 16.9703 34.1669 16.9147 34.272L9.43418 48.3755C9.27953 48.6664 9.15086 48.9704 9.04969 49.2839V49.2838Z" fill="#4BAF47"></path></svg>
+                        <div class="col-md-12 filter-item cat1">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Environmental assessments</h2>
+                                        <p class="mb-30">We offer a comprehensive range of environmental services, including Environmental Impact Assessments (EIA), Environmental Audits (EA) and Strategic Environmental Assessments (SEA), across different sectors, supporting public and private entities to adopt best environmental practises in their operations and ensure compliance with the existing national and international regulatory guidelines. Our environmental assessments and audit services focus primarily on the assessment of the consequences (positive and negative) of projects on the environment prior to the decision to move forward with proposed actions. We apply best methodologies that are tailored to meet environmental management expectations and ensure compliance with the existing regulatory requirements. We undertake due diligence to help organizations meet the environmental and social safeguard standards for financial institutions, including the WB, IMF, EIB, and AfDB. We specifically offer key environmental assessment and audit services in the following key sectors:</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>Agriculture, livestock and fisheries</li>
+                                                            <li><i class="fas fa-check-circle"></i>Agroforestry</li>
+                                                            <li><i class="fas fa-check-circle"></i>Built environment</li>
+                                                            <li><i class="fas fa-check-circle"></i>Energy</li>
+                                                            <li><i class="fas fa-check-circle"></i>Healthcare</li>
+                                                            <li><i class="fas fa-check-circle"></i>Mining</li>
+                                                            <li><i class="fas fa-check-circle"></i>Transport infrastructure</li>
+                                                            <li><i class="fas fa-check-circle"></i>Tourism</li>
+                                                            <li><i class="fas fa-check-circle"></i>Water and sanitation</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
                                 </div>
-                                <div class="service-card_content">
-                                    <h3 class="service-card_title "><a href="service-details.php">Water and Sanitation</a></h3>
-                                    <p class="service-card_text">Clean drinking water, hygiene, and sanitation play an important part in maintaining health. Access to clean water and sanitation facilities is increasingly &#8230;&#8230;&#8230;&#8230;&#8230;..</p>
+                            </div>
+                        </div>
+                        <div class="col-md-12 filter-item cat2">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Some examples of our services:</h2>
+                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
+                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
+                                        <blockquote>
+                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
+                                        </blockquote>
+                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
+                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Green Cleaning Services</li>
+                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
+                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Solar Panel Installation</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
                                 </div>
-                                <div class="service-card_img">
-                                    <img src="assets/img/oikos/oikos28.png" alt="img">
-                                    <a href="service-details.php" class="btn">Read More <i class="fas fa-angle-double-right"></i></a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 filter-item cat3">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Some examples of our services:</h2>
+                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
+                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
+                                        <blockquote>
+                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
+                                        </blockquote>
+                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
+                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Green Cleaning Services</li>
+                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
+                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Solar Panel Installation</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 filter-item cat4">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Some examples of our services:</h2>
+                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
+                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
+                                        <blockquote>
+                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
+                                        </blockquote>
+                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
+                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Green Cleaning Services</li>
+                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
+                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Solar Panel Installation</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 filter-item cat5">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Some examples of our services:</h2>
+                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
+                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
+                                        <blockquote>
+                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
+                                        </blockquote>
+                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
+                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Green Cleaning Services</li>
+                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
+                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Solar Panel Installation</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 filter-item cat6">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Some examples of our services:</h2>
+                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
+                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
+                                        <blockquote>
+                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
+                                        </blockquote>
+                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
+                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Green Cleaning Services</li>
+                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
+                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Solar Panel Installation</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12 filter-item cat7">
+                            <div class="col-xxl-12 col-lg-11">
+                                <div class="service-page-single">
+                                    <div class="page-img mb-40">
+                                        <img src="assets/img/service/service-details1-1.jpg" alt="img">
+                                    </div>
+                                    <div class="page-content">
+                                        <h2 class="page-title">Some examples of our services:</h2>
+                                        <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its aii layout. The point of using Lorem Ipsum.</p>
+                                        <p class="mb-n1">long established fact that a reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content of a page when looking at its layout other design</p>
+                                        <blockquote>
+                                            <p>Distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal.</p>
+                                        </blockquote>
+                                        <p class="mb-35">Reader will be distracted by the readable content of a page when looking at its layout io The point of using Lorem Ipsum is that it has a more- or-less normal distribution of letters, as opposed to using Itis is a long established to th fact that a reader will be distracted by the readable content.</p>
+                                        <div class="row flex-row-reverse">
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="page-img mb-30">
+                                                    <img src="assets/img/service/service-details1-2.jpg" alt="img">
+                                                </div>
+                                            </div>
+                                            <div class="col-xl-6 col-lg-12 col-md-6">
+                                                <div class="service-wrap">
+                                                    <h3 class="page-subtitle mb-15">Service lists</h3>
+                                                    <p>Lorem Ipsum is simply is dumiomy is text Lorem Ipsum is simply is ou our o dummy text</p>
+                                                    <div class="checklist mb-30 mt-25">
+                                                        <ul>
+                                                            <li><i class="fas fa-check-circle"></i>Renewable Energy Providers</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Green Cleaning Services</li>
+                                                            <li><i class="fas fa-check-circle"></i>Zero-waste grocery stores</li>
+                                                            <li><i class="fas fa-check-circle"></i>Sustainable Clothing Brands</li>
+                                                            <li><i class="fas fa-check-circle"></i>
+                                                                Solar Panel Installation</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+
+                                    </div>
                                 </div>
                             </div>
                         </div>
