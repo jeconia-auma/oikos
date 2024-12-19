@@ -740,7 +740,7 @@
         if ($($filter).length > 0) {
             var $grid = $($filter).isotope({
                 itemSelector: $filterItem,
-                filter: "*",
+                filter: ".cat1",
             });
 
             // filter items on button click
