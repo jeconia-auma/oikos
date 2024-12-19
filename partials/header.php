@@ -180,7 +180,7 @@
                     <div class="col-8 d-none d-lg-block">
                         <div class="header-links">
                             <ul>
-                                <li>West Park Towers, Suite 508, Mpesi Lane, Off-Muthithi Road, Westlands, Nairobi</li>
+                                <li>West Park Towers, Westlands, Nairobi</li>
                                 <li>Call:<a href="tel:+254708301830">+254 799 000 399</a></li>
                             </ul>
                         </div>
@@ -190,7 +190,7 @@
                             <ul>
                                 <li>
                                     <div class="social-links">
-                                        <marquee style="width: 100%;">Oikos Veritas Service Ltd ~ Ecology⎮Economics⎮Environment Consultants</marquee>
+                                        <marquee style="width: 100%;">Oikos Veritas Service Ltd ~ Ecology,Economics,Environment Consultants</marquee>
                                     </div>
                                 </li>
                             </ul>
