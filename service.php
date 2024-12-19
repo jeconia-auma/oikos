@@ -31,14 +31,18 @@
                 <div class="col-xl-3">
                     <div class="project-tab-btn filter-menu-active text-center">
                         <button data-filter="*" class="active btn" type="button">All Projects</button>
-                        <button class="btn" data-filter=".cat1" type="button">Climate</button>
-                        <button class="btn" data-filter=".cat2" type="button">Ecosystem</button>
-                        <button class="btn" data-filter=".cat3" type="button">Recycling</button>
+                        <button class="btn" data-filter=".cat1" type="button">Environmental assessments</button>
+                        <button class="btn" data-filter=".cat2" type="button">Ecology and biodiversity</button>
+                        <button class="btn" data-filter=".cat3" type="button">Resource economics</button>
+                        <button class="btn" data-filter=".cat3" type="button">Water and sanitation</button>
+                        <button class="btn" data-filter=".cat3" type="button">Energy</button>
+                        <button class="btn" data-filter=".cat3" type="button">Occupational safety and health</button>
+                        <button class="btn" data-filter=".cat3" type="button">Eco-tourism and leisure</button>
                     </div>
                 </div>
                 <div class="col-xl-9">
                     <!-- testing the mariage -->
-                    <div class="row filter-active gy-4">
+                    <div class="row filter-active gy-0">
                         <div class="col-md-4 filter-item cat1 cat3" id="cat1">
                             <div class="service-card">
                                 <div class="service-card_icon">

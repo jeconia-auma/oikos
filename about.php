@@ -30,7 +30,7 @@
                 <div class="col-lg-6">
                     <div class="about-thumb mb-50 mb-lg-0">
                         <div class="about-img-1">
-                            <img src="assets/img/normal/about_1-1.jpg" alt="img">
+                            <img src="assets/img/oikos/oikos5.jpg" alt="img">
                         </div>  
                         <!-- <div class="about-img-2">
                             <img src="assets/img/normal/about_1-2.jpg" alt="img">
@@ -42,8 +42,8 @@
                         <div class="title-area mb-35">
                             <span class="sub-title">ABOUT US</span>
                             <h2 class="sec-title">Who Are We?</h2>
-                            <p class="sec-text">Oikos Veritas Services LLC (OVS) is incorporated in Kenya since 2013 as an independent consulting firm in the fields of ecology, environment, economics and social sciences. Since establishment, and drawing from a wide range of network of experienced professionals accredited to different professional organizations, OVS has and continues to offer quality consulting services. Our principal clients are drawn from public and private sector entities, local and international development agencies in eastern Africa. Our proven track record in providing quality consulting services has qualified us as a firm of choice by public and private sector entities.
-                            </p>
+                            <p class="sec-text">The name Oikos has roots in the two English words “ecology” and “economy” and the Latin word "veritas,” signifying light and truth. Oikos Veritas Services Limited (OVS) is incorporated in Kenya as an independent consulting firm in the fields of ecology, biodiversity, environment, economics, energy, occupational safety and health, and social sciences. Our experts are drawn from a network of experienced professionals accredited by different professional organizations. Our proven track record has qualified us as a consulting firm in eastern Africa.</p><br>
+                            <p>We are committed to improving the ecological, environmental, and socioeconomic well-being of the present and future generations by providing innovative and high-quality consulting, advisory, and capacity development services.</p>
                         </div>
                         <!-- <div class="checklist mb-30">
                             <ul>
