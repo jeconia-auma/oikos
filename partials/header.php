@@ -221,7 +221,7 @@
                                     <li class="menu-item-has-children">
                                         <a title="" href="project.php">Projects</a> <!-- write in title Mega Menu -->
                                         <ul class="mega-menu">
-                                            <li><a href="project.php">Env. Assmt. & Audits</a>
+                                            <li><a href="project.php">Projects</a>
                                                 <ul>
                                                     <li><a href="project.php#resource_economics">Resource Economics</a></li>
                                                     <li><a href="project.php#water">Water and Sanitation</a></li>
@@ -235,7 +235,26 @@
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
-                                        <a title="" href="service.php">Services</a> <!-- write in title Mega Menu -->
+                                        <a title="" href="project.php">Services</a> <!-- write in title Mega Menu -->
+                                        <ul class="mega-menu">
+                                            <li><a href="Services.php">Services</a>
+                                                <ul>
+                                                    <li><a href="service.php?filter=cat1">Environmental assessments</a></li>
+                                                    <li><a href="service.php?filter=cat2">Ecology and biodiversity</a></li>
+                                                    <li><a href="service.php?filter=cat3">Resource economics</a></li>
+                                                    <li><a href="service.php?filter=cat4">Water and sanitation</a></li>
+                                                    <li><a href="service.php?filter=cat5">Energy</a></li>
+                                                    <li><a href="service.php?filter=cat6">Occupational safety and health</a></li>
+                                                    <li><a href="service.php?filter=cat7">Eco-tourism and leisure</a></li>
+                                                    <li><a href="service.php?filter=cat8">Projects development</a></li>
+                                                    <li><a href="service.php?filter=cat9">Eco-business</a></li>
+                                                    <li><a href="service.php?filter=cat10">Mining and mineral</a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <!-- <li class="menu-item-has-children">
+                                        <a title="" href="service.php">Services</a> <!-- write in title Mega Menu
                                         <ul class="mega-menu">
                                             <li><a href="service.php">Env. Assmt. & Audits</a>
                                                 <ul>
@@ -277,7 +296,7 @@
                                                     <li><a href="#">Water-energy-food nexus studies and analyses</a></li>
                                                 </ul>
                                         </ul>
-                                    </li>
+                                    </li> -->
                                     <li>
                                         <a href="contact.php">Contact</a>
                                     </li>

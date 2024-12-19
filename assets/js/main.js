@@ -287,6 +287,53 @@
         })
     }
 
+    // set url filter
+    $(document).ready(function () {
+        // Function to get the query parameter
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+    
+        $(".filter-active").imagesLoaded(function () {
+            var $filter = ".filter-active",
+                $filterItem = ".filter-item",
+                $filterMenu = ".filter-menu-active";
+    
+            if ($($filter).length > 0) {
+                var $grid = $($filter).isotope({
+                    itemSelector: $filterItem,
+                    filter: "*", // Default to showing all items
+                });
+    
+                // Automatically apply filter if "filter" query param exists
+                const filterValue = getQueryParam("filter");
+                if (filterValue) {
+                    $grid.isotope({ filter: "." + filterValue }); // Apply the filter
+                    $($filterMenu)
+                        .find(`button[data-filter=".${filterValue}"]`)
+                        .addClass("active")
+                        .siblings(".active")
+                        .removeClass("active");
+                }
+    
+                // Filter items on button click
+                $($filterMenu).on("click", "button", function () {
+                    var filterValue = $(this).attr("data-filter");
+                    $grid.isotope({ filter: filterValue });
+                });
+    
+                // Menu Active Class
+                $($filterMenu).on("click", "button", function (event) {
+                    event.preventDefault();
+                    $(this).addClass("active");
+                    $(this).siblings(".active").removeClass("active");
+                });
+            }
+        });
+    });
+    
+
     /*---------- 06. Set Background Image ----------*/
     if ($("[data-bg-src]").length > 0) {
         $("[data-bg-src]").each(function () {
