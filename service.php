@@ -30,8 +30,8 @@
             <div class="row gy-30 justify-content-center">
                 <div class="col-xl-3">
                     <div class="project-tab-btn filter-menu-active text-center">
-                        <button data-filter="*" class="active btn" type="button">All Services</button>
-                        <button class="btn" data-filter=".cat1" type="button">Environmental assessments</button>
+                        <!-- <button data-filter="*" class="active btn" type="button">All Services</button> -->
+                        <button class="active btn" data-filter=".cat1" type="button">Environmental assessments</button>
                         <button class="btn" data-filter=".cat2" type="button">Ecology and biodiversity</button>
                         <button class="btn" data-filter=".cat3" type="button">Resource economics</button>
                         <button class="btn" data-filter=".cat4" type="button">Water and sanitation</button>
