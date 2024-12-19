@@ -235,7 +235,7 @@
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
-                                        <a title="" href="project.php">Services</a> <!-- write in title Mega Menu -->
+                                        <a title="" href="service.php?filter=cat1">Services</a> <!-- write in title Mega Menu -->
                                         <ul class="mega-menu">
                                             <li><a href="service.php?filter=cat1">Services</a>
                                                 <ul>
